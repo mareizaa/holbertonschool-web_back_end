@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-''' 
+'''
 Returns the string representation of the float.
 '''
 
